@@ -8,3 +8,8 @@ Released under the Creative Commons Attribution 3.0 License
 https://creativecommons.org/licenses/by/3.0/   
 
 Designed using KiCad 4.0.7
+
+You can purchase this lure here:
+https://store.netgate.com/Lures/FishFood.aspx
+
+![alt tag](/lure.jpg)

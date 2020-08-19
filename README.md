@@ -1,4 +1,4 @@
-#Fish Food Lure for MinnowBoard SBC.
+# Fish Food Lure for MinnowBoard SBC.
 
 **Fish Food Lure** is a breadboard adapter for the MinnowBoard MAX / Turbot single boards computers (because you feed bread to fish).   
 This lure enables fast prototyping on a breadboard, connects to the MinnowBoard using a ribbon cable.      
